@@ -1,2 +1,2 @@
-# ePub_Reader_POC
-ePub_Reader_POC for FolioReaderKit Integration 
+# ePubReader
+reader for epub file POC for iOS
